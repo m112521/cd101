@@ -1,6 +1,6 @@
 # cd101
 
-## my first project
+## Branching
 
 ###### small text
 
