@@ -1,6 +1,6 @@
 # cd101
 
-## Branching
+## Branching a few features
 
 ###### small text for feature A
 
