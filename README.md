@@ -2,7 +2,8 @@
 
 ## Branching
 
-###### small text
+###### small text for feature A
+
 
 TBD:
 1. Install Github Desktop
