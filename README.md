@@ -3,7 +3,7 @@
 ## Branching a few features
 
 ###### small text for feature A
-
+Make changes
 
 TBD:
 1. Install Github Desktop
